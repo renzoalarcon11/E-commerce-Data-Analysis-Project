@@ -29,3 +29,10 @@ Highlighted top-performing sellers and regions
 Improve logistics in high-delay regions
 Focus on high-value customer segments
 Optimize seller performance strategies
+
+## 📂 Dataset Source
+The dataset used in this project is publicly available on Kaggle:
+
+👉 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Due to size limitations, the dataset is not included in this repository.
